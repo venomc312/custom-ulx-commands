@@ -36,7 +36,7 @@ local freezeall = ulx.command( "Venom", "ulx freezeall", ulx.freezeall, "!freeze
 freezeall:defaultAccess( ULib.ACCESS_ALL)
 freezeall:help("Freezes all of your entities.")
 
-// HOOKS
+// HOOKS AND HOOK FUNCTIONS
 hook.Add("PlayerLeaveVehicle","Ulx_Backseat", function(P,V)
 P.UlxLastVehicle = V
 
