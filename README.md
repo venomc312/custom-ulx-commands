@@ -4,8 +4,8 @@ ULX commands that are specialized for my trainbuild server.  However these comma
 
 ### Added Commands
 
-> +Playertags  return
-> +Location Management  return
+> +Playertags  
+> +Location Management  
 > +Backseat
 > +Freezeall
 
